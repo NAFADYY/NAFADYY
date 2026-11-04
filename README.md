@@ -21,131 +21,137 @@
 
 I'm a **Mid-Level Front-End Developer** passionate about building modern, scalable, and high-performance web applications.
 
-I specialize in transforming complex business requirements and Figma designs into responsive, maintainable, and user-friendly digital experiences.
-
-My experience includes developing enterprise-level dashboards, multi-role management systems, and bilingual platforms serving different business domains.
+I turn complex business requirements and Figma designs into responsive, maintainable, and user-friendly digital experiences. My work includes enterprise dashboards, multi-role management systems, and bilingual platforms.
 
 - 💻 Specialized in **React.js, Next.js, JavaScript, and TypeScript**.
-- 🏗️ Experienced in building complex Admin Dashboards and Management Systems.
-- 🌍 Experienced in bilingual applications with **Arabic RTL & English** support.
-- 🔌 Skilled in REST API integration and data-driven applications.
-- 🎨 Focused on clean UI/UX, reusable components, and maintainable architecture.
-- ⚡ Interested in performance optimization and modern frontend practices.
-- 🤝 Passionate about collaboration, problem-solving, and continuous learning.
+- 🏗️ Experienced in building complex admin dashboards and management systems.
+- 🌍 Build bilingual interfaces with **Arabic RTL and English** support.
+- 🔌 Experienced in REST API integration and data-driven applications.
+- 🎨 Focused on reusable components, clean UI/UX, and maintainable code.
+- ⚡ Interested in performance optimization and modern frontend architecture.
 
 📍 Egypt
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack & Tools
 
 ### Frontend Development
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite" />
 </p>
 
-### Styling & UI Development
-
+### Styling & UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" alt="Styling and UI Tools" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" alt="Tailwind CSS, Bootstrap, Sass, Figma" />
 </p>
 
-### State Management & Data Fetching
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-</p>
-
+### State Management, Data Fetching & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" alt="i18next" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-### Tools & Development
-
+### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" alt="Git, GitHub, VS Code, npm, Docker" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-My work includes several large-scale digital platforms across education, healthcare, and logistics.
+My work spans education, healthcare, and logistics platforms, including public-facing websites and administrative systems.
 
-### 🎓 01. Al-Azhar Ranking Ecosystem
+## 🎓 Al-Azhar University Portal
 
-A comprehensive university ecosystem connecting the main university website, administrative portals, and global university ranking platform.
+The university's public website and its dedicated administrative portal.
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://azhar-test.com/">
-        <img src="./assets/projects/alazhar-main-website.jpg" alt="Al-Azhar Main Website" width="100%" />
+        <img src="./assets/projects/alazhar-main-website.jpg" alt="Al-Azhar University Main Website" width="100%" />
       </a>
-      <h4>🌐 Main University Website</h4>
+      <h4>🌐 University Website</h4>
       <a href="https://azhar-test.com/">Visit Website ↗</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://dashboard.azhar-test.com/">
-        <img src="./assets/projects/azhar-ranking-portal-login.jpg" alt="Al-Azhar Admin Dashboard Login" width="100%" />
+        <img src="./assets/projects/azhar-university-portal-login.jpg" alt="Al-Azhar University Portal Login" width="100%" />
       </a>
-      <h4>⚙️ Admin Dashboard</h4>
+      <h4>⚙️ University Dashboard</h4>
       <a href="https://dashboard.azhar-test.com/">Visit Dashboard ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://azhar-ranking.com/">
-        <img src="./assets/projects/azhar-ranking-website.jpg" alt="Al-Azhar Global Ranking Platform" width="100%" />
-      </a>
-      <h4>🏆 Global University Ranking Platform</h4>
-      <a href="https://azhar-ranking.com/">Explore Ranking Platform ↗</a>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>Additional University Portal Preview</b></summary>
-  <br />
-  <p align="center">
-    <img src="./assets/projects/azhar-university-portal-login.jpg" alt="Al-Azhar University Portal Login" width="85%" />
-  </p>
-</details>
-
-**Key Features & Areas:**
-- Multi-level Administrative Portals.
-- Super Admin, University, Faculty & Branch Management.
-- University Evaluation & Accreditation.
-- Global University Ranking.
-- Academic and Administrative Workflows.
-- Bilingual Arabic & English Interfaces.
-
-**Technologies:** React.js · JavaScript · Tailwind CSS · REST APIs · React Query
+**Focus Areas:** University information · Administrative workflows · Role-based portals · Arabic RTL and English interfaces
 
 ---
 
-### 🏥 02. ULMcare Healthcare Ecosystem
+## 🏆 Al-Azhar Ranking System
 
-A digital healthcare ecosystem designed to connect patients, healthcare providers, and medical services through modern web platforms.
+A separate platform focused on university rankings, evaluation, and ranking-related administration.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://azhar-ranking.com/">
+        <img src="./assets/projects/azhar-ranking-website.jpg" alt="Al-Azhar Ranking Website" width="100%" />
+      </a>
+      <h4>🌐 Ranking Website</h4>
+      <a href="https://azhar-ranking.com/">Visit Ranking Website ↗</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/projects/azhar-ranking-portal-login.jpg" alt="Al-Azhar Ranking Admin Portal Login" width="100%" />
+      <h4>⚙️ Ranking Dashboard</h4>
+      <p><sub>Dashboard login preview</sub></p>
+    </td>
+  </tr>
+</table>
+
+**Focus Areas:** University rankings · Evaluation workflows · Accreditation · Ranking administration
+
+---
+
+## 🏢 Al-Azhar HR System
+
+A dedicated HR system for human-resources administration.
+
+<p align="center">
+  <a href="https://hr.roboeye-tec.com/">
+    <img src="./assets/projects/azhar-hr-system-login.jpg" alt="Al-Azhar HR System Login" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hr.roboeye-tec.com/">Visit HR System ↗</a>
+</p>
+
+---
+
+## 🏥 ULMcare Healthcare Ecosystem
+
+A digital healthcare ecosystem connecting patients, healthcare providers, and medical services through web platforms.
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://ulmcare.com/">
-        <img src="./assets/projects/ulmcare-website.jpg" alt="ULMcare Main Website" width="100%" />
+        <img src="./assets/projects/ulmcare-website.jpg" alt="ULMcare Website" width="100%" />
       </a>
       <h4>🌐 ULMcare Website</h4>
       <a href="https://ulmcare.com/">Visit Website ↗</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://dashboard.ulmcare.com/">
-        <img src="./assets/projects/ulmcare-dashboard-login.jpg" alt="ULMcare Admin Dashboard" width="100%" />
+        <img src="./assets/projects/ulmcare-dashboard-login.jpg" alt="ULMcare Dashboard Login" width="100%" />
       </a>
       <h4>⚙️ ULMcare Dashboard</h4>
       <a href="https://dashboard.ulmcare.com/">Visit Dashboard ↗</a>
@@ -153,16 +159,9 @@ A digital healthcare ecosystem designed to connect patients, healthcare provider
   </tr>
 </table>
 
-**Key Features & Areas:**
-- Healthcare Services & Management.
-- Doctors, Hospitals & Medical Centers.
-- Medical Booking and Service Interfaces.
-- REST API Integration.
-- Responsive and Bilingual Interfaces.
+**Focus Areas:** Healthcare services · Medical providers · Booking and management · REST API integration · Responsive interfaces
 
-**Technologies:** React.js · JavaScript · React Query · Axios · REST APIs
-
-#### 🔹 ULM Connect
+### 🔹 ULM Connect
 
 A connected digital platform for healthcare providers.
 
@@ -172,47 +171,39 @@ A connected digital platform for healthcare providers.
 
 ---
 
-### 🚚 03. Paxi Logistics Ecosystem
+## 🚚 Paxi Logistics Platform
 
-A digital platform focused on logistics, transportation, and delivery services.
+A digital platform for transportation, logistics, and delivery services.
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://paxi.company/ar">
-        <img src="./assets/projects/paxi-website.jpg" alt="Paxi Main Website" width="100%" />
+        <img src="./assets/projects/paxi-website.jpg" alt="Paxi Website" width="100%" />
       </a>
       <h4>🌐 Paxi Website</h4>
       <a href="https://paxi.company/ar">Visit Website ↗</a>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/projects/paxi-dashboard-login.jpg" alt="Paxi Dashboard Login Preview" width="100%" />
+      <img src="./assets/projects/paxi-dashboard-login.jpg" alt="Paxi Dashboard Login" width="100%" />
       <h4>⚙️ Paxi Dashboard</h4>
-      <p><sub>Dashboard Login Preview</sub></p>
+      <p><sub>Dashboard login preview</sub></p>
     </td>
   </tr>
 </table>
 
-**Key Features & Areas:**
-- Logistics & Transportation Management.
-- Delivery Operations.
-- Driver and Management Interfaces.
-- Data-driven Dashboard Interfaces.
-- Responsive Web Applications.
-
-**Technologies:** React.js · JavaScript · REST APIs
+**Focus Areas:** Logistics · Transportation · Delivery operations · Driver and management interfaces
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NAFADYY&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Ahmed's GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NAFADYY&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAFADYY&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ### 🔥 Contribution Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NAFADYY&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
@@ -220,7 +211,6 @@ A digital platform focused on logistics, transportation, and delivery services.
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NAFADYY&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </p>
@@ -228,8 +218,6 @@ A digital platform focused on logistics, transportation, and delivery services.
 ---
 
 ## 🤝 Let's Connect
-
-I'm always open to discussing new opportunities, interesting projects, and collaborations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nafady/">
@@ -245,8 +233,6 @@ I'm always open to discussing new opportunities, interesting projects, and colla
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 <p align="center">
   <b>💡 Building meaningful digital experiences, one component at a time.</b>

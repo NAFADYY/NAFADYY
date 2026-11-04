@@ -73,108 +73,103 @@ I specialize in transforming complex business requirements and Figma designs int
 
 ### 🎓 Al-Azhar Ranking Ecosystem
 
-A comprehensive ecosystem for university management, evaluation, and global ranking.
+A multi-platform university ecosystem covering the university's public website, administrative portal, and global ranking platform.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://azhar-test.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fazhar-test.com?w=1000" width="100%" alt="Al-Azhar Main Website"/>
+        <img src="./assets/projects/alazhar-main-website.jpg" alt="Al-Azhar Main Website" width="100%">
       </a>
-      <h4 align="center">🌐 Main Website</h4>
-      <p align="center"><a href="https://azhar-test.com/">Visit Website ↗</a></p>
+      <b>🌐 Main University Website</b><br>
+      <a href="https://azhar-test.com/">Visit Website ↗</a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://dashboard.azhar-test.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdashboard.azhar-test.com?w=1000" width="100%" alt="Al-Azhar Admin Dashboard"/>
+        <img src="./assets/projects/azhar-admin-dashboard-login.jpg" alt="Al-Azhar Admin Dashboard" width="100%">
       </a>
-      <h4 align="center">⚙️ Admin Dashboard</h4>
-      <p align="center"><a href="https://dashboard.azhar-test.com/">Visit Dashboard ↗</a></p>
+      <b>⚙️ Admin Dashboard</b><br>
+      <a href="https://dashboard.azhar-test.com/">Visit Dashboard ↗</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <a href="https://azhar-ranking.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fazhar-ranking.com?w=1200" width="100%" alt="Al-Azhar Global Ranking"/>
+        <img src="./assets/projects/azhar-ranking-website.jpg" alt="Al-Azhar Ranking Platform" width="100%">
       </a>
-      <h4 align="center">🏆 Global Ranking Platform</h4>
-      <p align="center"><a href="https://azhar-ranking.com/">Explore Ranking ↗</a></p>
+      <b>🏆 University Ranking Platform</b><br>
+      <a href="https://azhar-ranking.com/">Explore Ranking ↗</a>
     </td>
   </tr>
 </table>
 
-**Key Features:**
-- Multi-portal University Management System
-- Super Admin, University, Faculty & Branch Dashboards
-- University Evaluation & Accreditation
-- Global University Ranking
-- AI-powered Evaluation Workflows
-- Bilingual Arabic & English Support
+<details>
+  <summary>Additional Al-Azhar Portal Preview</summary>
+  <p align="center">
+    <img src="./assets/projects/azhar-university-portal-login.jpg" alt="Al-Azhar University Portal Login" width="85%">
+  </p>
+</details>
 
-**Tech:** React.js • Tailwind CSS • REST APIs • Framer Motion
+**Key Areas:** University Management · Super Admin · University, Faculty & Branch Management · Evaluation & Accreditation · Global Rankings · Bilingual Arabic/English UI
 
 ---
 
 ### 🏥 ULMcare Ecosystem
 
-A digital healthcare ecosystem connecting patients with medical services and healthcare providers.
+A digital healthcare ecosystem connecting patients, healthcare providers, and medical services through web platforms.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://ulmcare.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fulmcare.com?w=1000" width="100%" alt="ULMcare Website"/>
+        <img src="./assets/projects/ulmcare-website.jpg" alt="ULMcare Website" width="100%">
       </a>
-      <h4 align="center">🌐 ULMcare Website</h4>
-      <p align="center"><a href="https://ulmcare.com/">Visit Website ↗</a></p>
+      <b>🌐 ULMcare Website</b><br>
+      <a href="https://ulmcare.com/">Visit Website ↗</a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://dashboard.ulmcare.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdashboard.ulmcare.com?w=1000" width="100%" alt="ULMcare Dashboard"/>
+        <img src="./assets/projects/ulmcare-dashboard-login.jpg" alt="ULMcare Dashboard" width="100%">
       </a>
-      <h4 align="center">⚙️ ULMcare Dashboard</h4>
-      <p align="center"><a href="https://dashboard.ulmcare.com/">Visit Dashboard ↗</a></p>
+      <b>⚙️ ULMcare Dashboard</b><br>
+      <a href="https://dashboard.ulmcare.com/">Visit Dashboard ↗</a>
     </td>
   </tr>
 </table>
 
-**Key Features:**
-- Healthcare Management
-- Medical Services & Booking
-- Doctors, Hospitals & Medical Centers
-- Responsive Web Interfaces
-- Arabic & English Support
+**Key Areas:** Healthcare Services · Medical Providers · Booking & Management · API Integration · Responsive Interfaces
 
-**Tech:** React.js • JavaScript • REST APIs • React Query
+#### ULM Connect
+
+<img src="./assets/projects/ulm-connect-website.jpg" alt="ULM Connect Website" width="100%">
+
+A connected digital experience for healthcare providers.
 
 ---
 
-### 🚚 Paxi Logistics Ecosystem
+### 🚚 Paxi Logistics Platform
 
-A modern digital platform for logistics, transportation, and delivery services.
+A digital platform for transportation, logistics, and delivery services.
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%" align="center">
       <a href="https://paxi.company/ar">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpaxi.company%2Far?w=1200" width="100%" alt="Paxi Website"/>
+        <img src="./assets/projects/paxi-website.jpg" alt="Paxi Website" width="100%">
       </a>
-      <h4 align="center">🌐 Paxi Website</h4>
-      <p align="center"><a href="https://paxi.company/ar">Visit Website ↗</a></p>
+      <b>🌐 Paxi Website</b><br>
+      <a href="https://paxi.company/ar">Visit Website ↗</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/projects/paxi-dashboard-login.jpg" alt="Paxi Dashboard Login" width="100%">
+      <b>⚙️ Paxi Dashboard</b><br>
+      <i>Dashboard preview</i>
     </td>
   </tr>
 </table>
 
-**Key Features:**
-- Logistics & Transportation
-- Delivery Management
-- Driver & Operations Interfaces
-- Real-time Data Integration
-- Responsive Dashboard Interfaces
+**Key Areas:** Logistics · Transportation · Delivery Operations · Driver & Management Interfaces
 
-**Tech:** React.js • JavaScript • REST APIs</p>
-
-</p>
 
 ---
 

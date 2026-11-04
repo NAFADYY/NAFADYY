@@ -196,16 +196,36 @@ A digital platform for transportation, logistics, and delivery services.
 
 ---
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NAFADYY&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAFADYY&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <a href="https://github.com/NAFADYY?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/NAFADYY?tab=stars">
+    <img src="https://img.shields.io/badge/My-Stars-161B22?style=for-the-badge&logo=github&logoColor=yellow" />
+  </a>
+  <a href="https://github.com/NAFADYY?tab=overview">
+    <img src="https://img.shields.io/badge/View-Contributions-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  </a>
 </p>
 
 ### 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NAFADYY&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=NAFADYY&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### 💻 Explore My Code
+
+<p align="center">
+  <a href="https://github.com/NAFADYY?tab=repositories">
+    **View All My Repositories →**
+  </a>
 </p>
 
 ---

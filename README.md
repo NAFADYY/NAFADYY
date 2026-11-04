@@ -230,21 +230,21 @@ A digital platform for transportation, logistics, and delivery services.
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/NAFADYY">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=NAFADYY&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Ahmed%27s%20Contribution%20Graph"
-      width="100%"
-      alt="Ahmed's Contribution Graph"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/NAFADYY/NAFADYY/output/github-contribution-grid-snake-dark.svg"
+    alt="Ahmed's GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <sub>Building consistently • Learning continuously • Improving every day</sub>
 </p>
+
 
 
 ---

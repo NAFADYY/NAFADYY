@@ -71,42 +71,110 @@ I specialize in transforming complex business requirements and Figma designs int
 
 ## 💼 Featured Projects
 
-### 🎓 Al-Azhar Ranking System
+### 🎓 Al-Azhar Ranking Ecosystem
 
-A comprehensive university management and ranking platform with multiple administrative portals and evaluation workflows.
+A comprehensive ecosystem for university management, evaluation, and global ranking.
 
-**Key Areas:**
-- University Management
-- Super Admin Dashboard
-- Faculty & Branch Management
-- Evaluation & Accreditation
-- University Rankings
-- Administrative Workflows
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://azhar-test.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fazhar-test.com?w=1000" width="100%" alt="Al-Azhar Main Website"/>
+      </a>
+      <h4 align="center">🌐 Main Website</h4>
+      <p align="center"><a href="https://azhar-test.com/">Visit Website ↗</a></p>
+    </td>
+    <td width="50%">
+      <a href="https://dashboard.azhar-test.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdashboard.azhar-test.com?w=1000" width="100%" alt="Al-Azhar Admin Dashboard"/>
+      </a>
+      <h4 align="center">⚙️ Admin Dashboard</h4>
+      <p align="center"><a href="https://dashboard.azhar-test.com/">Visit Dashboard ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://azhar-ranking.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fazhar-ranking.com?w=1200" width="100%" alt="Al-Azhar Global Ranking"/>
+      </a>
+      <h4 align="center">🏆 Global Ranking Platform</h4>
+      <p align="center"><a href="https://azhar-ranking.com/">Explore Ranking ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-🔗 [Main Website](https://azhar-test.com/)  
-🔗 [Admin Dashboard](https://dashboard.azhar-test.com/)
+**Key Features:**
+- Multi-portal University Management System
+- Super Admin, University, Faculty & Branch Dashboards
+- University Evaluation & Accreditation
+- Global University Ranking
+- AI-powered Evaluation Workflows
+- Bilingual Arabic & English Support
 
-### 🏥 ULMcare
+**Tech:** React.js • Tailwind CSS • REST APIs • Framer Motion
 
-Healthcare ecosystem focused on connecting healthcare services through modern digital platforms.
+---
 
-**Key Areas:**
+### 🏥 ULMcare Ecosystem
+
+A digital healthcare ecosystem connecting patients with medical services and healthcare providers.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://ulmcare.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fulmcare.com?w=1000" width="100%" alt="ULMcare Website"/>
+      </a>
+      <h4 align="center">🌐 ULMcare Website</h4>
+      <p align="center"><a href="https://ulmcare.com/">Visit Website ↗</a></p>
+    </td>
+    <td width="50%">
+      <a href="https://dashboard.ulmcare.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdashboard.ulmcare.com?w=1000" width="100%" alt="ULMcare Dashboard"/>
+      </a>
+      <h4 align="center">⚙️ ULMcare Dashboard</h4>
+      <p align="center"><a href="https://dashboard.ulmcare.com/">Visit Dashboard ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+**Key Features:**
 - Healthcare Management
-- Medical Services
+- Medical Services & Booking
+- Doctors, Hospitals & Medical Centers
 - Responsive Web Interfaces
-- API Integration
 - Arabic & English Support
 
-### 🚚 Paxi Dashboard
+**Tech:** React.js • JavaScript • REST APIs • React Query
 
-Logistics and transportation management platform.
+---
 
-**Key Areas:**
-- Logistics Management
+### 🚚 Paxi Logistics Ecosystem
+
+A modern digital platform for logistics, transportation, and delivery services.
+
+<table>
+  <tr>
+    <td width="100%">
+      <a href="https://paxi.company/ar">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpaxi.company%2Far?w=1200" width="100%" alt="Paxi Website"/>
+      </a>
+      <h4 align="center">🌐 Paxi Website</h4>
+      <p align="center"><a href="https://paxi.company/ar">Visit Website ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+**Key Features:**
+- Logistics & Transportation
+- Delivery Management
 - Driver & Operations Interfaces
-- Dashboard Development
-- Data-driven UI
-- API Integration
+- Real-time Data Integration
+- Responsive Dashboard Interfaces
+
+**Tech:** React.js • JavaScript • REST APIs</p>
+
+</p>
 
 ---
 
